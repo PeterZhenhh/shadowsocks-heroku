@@ -3,8 +3,8 @@
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 80,
-  "password": "onplus",
+  "remote_port": 8080,
+  "password": "password",
   "timeout": 600,
   "method": "aes-256-cfb"
 }
